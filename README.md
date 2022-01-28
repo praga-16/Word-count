@@ -33,6 +33,7 @@ print("Number of words = ",num_of_words)
 ```
 ### OUTPUT:
 ![github logo](to.jpg)
+![github logo](out1.jpg)
 
 
 ## RESULT:
